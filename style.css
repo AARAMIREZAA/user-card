@@ -1,0 +1,11 @@
+.top {
+    background-color: #17a2b8;
+    width: 451px;
+    height: 75px;
+}
+.bottom {
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    width: 450px;
+    height: 150px;
+}
